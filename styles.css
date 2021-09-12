@@ -1,0 +1,26 @@
+body{
+  background-color: #EAF6F6;
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+height:2px;
+width: 5%;
+}
+h1,h3
+{
+  color:#66BFBF;
+}
+h1:hover
+{
+  font-style: italic;
+  color:gold;
+}
+label
+{
+  padding-right: 10px;
+  text-align: right;
+  display: flex;
+}
